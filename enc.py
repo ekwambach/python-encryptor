@@ -6,7 +6,6 @@
 
 import string
 import readline
-import pickle
 from sys import argv
 
 #Encryption key dictionary
